@@ -1,0 +1,4 @@
+- 👋 Hi, I'm @rkytie
+- 👀 I'm interested in PHP/Laravel/jQuery/API
+- 🌱 I'm currently learning Angular/Node.JS/Next.JS
+- 📫 How to reach me: umitcanakci@icloud.com / Instagram: @umitcanakci
